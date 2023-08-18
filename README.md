@@ -38,6 +38,8 @@ To address the problem statement and answer the questions mentioned above, we wi
 3. Utilize Python packages to provide answers to the questions and plot charts for univariate and bivariate analysis using the Matplotlib/Seaborn package.
 ## Task 2: Dashboard Creation with Power BI/Tableau
 Using Power BI or Tableau, clean and prepare the Excel file generated from Task 1. Create a two-page report/dashboard that showcases the HR analysis. Ensure the dashboard effectively communicates the insights derived from the data.
+![image](https://github.com/iitrvipulsoni/BusyQA-HR-Analytics-Project/assets/121818656/537c41c5-06e2-4295-b8c2-d562c9c806de)
+
 ## Task 3: Predictive Modeling with Machine Leaning models
 - Employed Decision Tree algorithms to build a machine learning model with 90% accuracy, enabling accurate prediction of the number of future candidates who will be seeking new job opportunities after enrolling in the BusyQA Data Analyst Course.
 - Collaborated with a team of professionals to gather, analyze, and interpret data related to candidate enrollment and job search trends, contributing to evidence-based decision-making and strategic planning.
